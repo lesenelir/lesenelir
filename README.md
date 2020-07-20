@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 My name is lesenelir which is inspired by Leslie Cheung
+
+- 💬 Coding - C / Python / Go
+
+- 🌱 Learning English
+
+- 📫 Email: miaomiaobabyzy@gmail.com
+
 <!--
 **lesenelir/lesenelir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
