@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-- 🔭 My name is lesenelir which is inspired by Leslie Cheung
+**Thanks for visiting my Github profile 👯**
+
+- 🔭 Lesenelir
 
 - 💬 Coding - C / Python / Go
 
-- 🌱 Learning English
+- 🌱 Currently Learning English & Computer Science
 
 - 📫 Email: miaomiaobabyzy@gmail.com
 
