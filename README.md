@@ -2,7 +2,9 @@
 
 **Thanks for visiting my Github profile 👯**
 
-- 🔭 Lesenelir
+Here are some informationabout me:
+
+- 🔭 A post-graduate student majoring in computer science
 
 - 💬 Coding - C / Python / Go
 
