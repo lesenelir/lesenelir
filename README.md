@@ -2,7 +2,7 @@
 
 **Thanks for visiting my Github profile 👯**
 
-Here are some informationabout me:
+Here are some information about me:
 
 - 🔭 A post-graduate student majoring in computer science
 
