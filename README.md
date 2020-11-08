@@ -1,4 +1,12 @@
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 ## Lesenelir <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <!--**Thanks for visiting my Github profile 👯**-->
 
@@ -11,14 +19,6 @@
 - 🌱 Currently Learning English & Computer Science
 
 - 📫 Email: miaomiaobabyzy@gmail.com
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 
 <!--
