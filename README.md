@@ -1,5 +1,5 @@
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lesenelir&theme=graywhite&show_icons=true&hide=contribs,issues)
 
 ## Lesenelir <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <!--**Thanks for visiting my Github profile 👯**-->
@@ -12,7 +12,7 @@
 
 - 🌱 Currently Learning English & Computer Science
 
-- 📫 Email: miaomiaobabyzy@gmail.com<img align='right' src="https://github-readme-stats.vercel.app/api?username=lesenelir&show_icons=true&hide=contribs,issues"> 
+- 📫 Email: miaomiaobabyzy@gmail.com
 
 <!--
 **lesenelir/lesenelir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--<img align='right' src="https://github-readme-stats.vercel.app/api?username=lesenelir&show_icons=true&hide=contribs,issues"> -->
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lesenelir&theme=graywhite&show_icons=true&hide=contribs,issues)-->
