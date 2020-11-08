@@ -1,4 +1,5 @@
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=lesenelir&show_icons=true&hide=contribs,issues">
 
 <br/>
 <br/>
@@ -35,6 +36,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lesenelir&show_icons=true&hide=contribs,issues">
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lesenelir&theme=graywhite&show_icons=true&hide=contribs,issues)-->
