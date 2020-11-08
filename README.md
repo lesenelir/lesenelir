@@ -1,4 +1,6 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lesenelir&show_icons=true">
+<!--<img align='right' src="https://github-readme-stats.vercel.app/api?username=lesenelir&show_icons=true">-->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lesenelir&theme=buefy&show_icons=true&hide=contribs,issues)
+
 
 ## Lesenelir <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
