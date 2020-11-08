@@ -1,8 +1,11 @@
-## Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=lesenelir&show_icons=true">
 
-**Thanks for visiting my Github profile 👯**
+## Lesenelir <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-Here are some information about me:
+
+<!--**Thanks for visiting my Github profile 👯**-->
+
+<!--Here are some information about me:-->
 
 - 🔭 A post-graduate student majoring in computer science
 
