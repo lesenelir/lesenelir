@@ -9,16 +9,14 @@
 
 <!--Here are some information about me:-->
 
-- 🔭 A post-graduate student majoring in computer science
+- 🔭 A postgraduate student in computer science
 
-- 💬 Coding - Web Developer / JavaScript / Golang
+- 💬 Coding - Web Developer / JavaScript / Solidity
 
 - 🌱 Currently Learning English & Computer Science
 
-- 🍭 Future wanted to be a Web3.0 Builder & Crypto Market Developer
+- 🍭 Wanted to be a web3 builder in the future
 
 - 📫 Email: miaomiaobabyzy@gmail.com
 
-
 <!--![Lesenelir's github stats](https://github-readme-stats.vercel.app/api?username=lesenelir&theme=graywhite&show_icons=true&hide=contribs,issues)-->
-
