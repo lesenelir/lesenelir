@@ -15,7 +15,7 @@
 
 - 🌱 Currently Learning English & Computer Science
 
-- 🍭 Wanted to be a web3 builder in the future
+- 🍭 Future wanted to be a Web3.0 Builder & Film Director
 
 - 📫 Email: miaomiaobabyzy@gmail.com
 
