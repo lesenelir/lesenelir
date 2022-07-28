@@ -9,14 +9,28 @@
 
 <!--Here are some information about me:-->
 
-- 🔭 A postgraduate student in computer science
-
-- 💬 Coding - Web Developer / JavaScript / Solidity
-
-- 🌱 Currently Learning English & Computer Science
-
-- 🍭 Future wanted to be a Web3.0 Builder & Film Director
-
-- 📫 Email: miaomiaobabyzy@gmail.com
+ <div style="display: flex; justify-content: space-between">
+      <ul>
+        <li>
+          🔭 A postgraduate student in computer science
+        </li>
+        <li>
+          💬 Coding - Web Developer / JavaScript / Solidity
+        </li>
+        <li>
+          🌱 Currently Learning English & Computer Science
+        </li>
+        <li>
+          🍭 Future wanted to be a Web3.0 Builder & Film Director
+        </li>
+        <li>
+          📫 Email: miaomiaobabyzy@gmail.com
+        </li>
+      </ul>
+      <img src="https://stats.justsong.cn/api/leetcode/?username=lesenelir&cn=true" alt="Lesenelir's LeetCode Stats"/>
+    </div>
 
 <!--![Lesenelir's github stats](https://github-readme-stats.vercel.app/api?username=lesenelir&theme=graywhite&show_icons=true&hide=contribs,issues)-->
+
+<!--![Lesenelir's github stats](https://stats.justsong.cn/api/leetcode/?username=lesenelir&cn=true)-->
+
