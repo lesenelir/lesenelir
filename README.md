@@ -9,7 +9,7 @@
 
 <!--Here are some information about me:-->
 
-  - 🔭 A postgraduate student in computer science
+  - 🔭 Studying computer science in Jinan University
 
   - 💬 Coding - Web Developer / JavaScript / Solidity
 
