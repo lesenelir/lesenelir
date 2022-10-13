@@ -17,9 +17,7 @@
 
   - 🍭 Future wanted to be a Web3.0 Builder & Film Director
 
-  - 📫 Email: miaomiaobabyzy@gmail.com
-
+<!-- - 📫 Email: miaomiaobabyzy@gmail.com -->
 <!--![Lesenelir's github stats](https://github-readme-stats.vercel.app/api?username=lesenelir&theme=graywhite&show_icons=true&hide=contribs,issues)-->
-
 <!--![Lesenelir's github stats](https://stats.justsong.cn/api/leetcode/?username=lesenelir&cn=true)-->
 
