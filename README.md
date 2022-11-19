@@ -1,17 +1,18 @@
 <!--
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=lesenelir&show_icons=true&hide=contribs,issues">
 -->
-<!-- <img src="https://raw.githubusercontent.com/lesenelir/lesenelir/master/1.gif" width="200"> -->
+ 
+<!-- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">-->
 
-## Lesenelir <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## Lesenelir <img src="https://raw.githubusercontent.com/lesenelir/lesenelir/master/1.gif" width="100"> 
 
 <!--**Thanks for visiting my Github profile 👯**-->
 
 <!--Here are some information about me:-->
 
-  - 🔭 Studying computer science in Jinan University
+  - 🔭 Studying Computer Science in Jinan University
 
-  - 💬 Coding - Web Developer / JavaScript / Solidity
+  - 💬 Coding - Web Dev | JavaScript | TypeScript | Solidity
 
   - 🌱 Currently Learning English & Computer Science
 
