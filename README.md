@@ -16,7 +16,7 @@
 
   - 💬 Coding - Web Dev | JavaScript | TypeScript | Solidity
 
-  - 🌱 Currently Learning English & Computer Science
+  - 🌱 Currently Learning English & Front-end & Blockchain
 
   - 🍭 Future wanted to be a Web3.0 Builder & Film Director
 
