@@ -11,15 +11,26 @@
 <!--**Thanks for visiting my Github profile 👯**-->
 
 <!--Here are some information about me:-->
+[![wakatime](https://wakatime.com/badge/user/98c6a54e-6684-4d11-a897-c5c1787bef61.svg)](https://wakatime.com/@98c6a54e-6684-4d11-a897-c5c1787bef61)
 
-  - 🔭 Studying Computer Science in Jinan University
+🌐 Web Developer, specializing in React development
+
+🎨 Passionate about crafting UI and interactive experiences
+
+💡 Exploring the world of crypto development
+
+📷 Aspiring to be an artist, photographer, and film director
+
+<br/>
+
+We will ultimately embrace a more open, free, and inclusive internet. Don't be disheartened, dare to dream, and dare to build.
+
+
+<!--  - 🔭 Studying Computer Science in Jinan University
 
   - 💬 Coding - Web Dev | JavaScript | TypeScript | Solidity
 
   - 🌱 Currently Learning English & Front-end & Blockchain
 
   - 🍭 Future wanted to be a Web Developer & Crypto Developer & Film Director
-
-<!-- - 📫 Email: miaomiaobabyzy@gmail.com -->
-<!--![Lesenelir's github stats](https://github-readme-stats.vercel.app/api?username=lesenelir&theme=graywhite&show_icons=true&hide=contribs,issues)-->
-<!--![Lesenelir's github stats](https://stats.justsong.cn/api/leetcode/?username=lesenelir&cn=true)-->
+-->
