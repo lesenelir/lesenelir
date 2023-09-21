@@ -6,7 +6,9 @@
 
 <!-- <img src="https://raw.githubusercontent.com/lesenelir/lesenelir/master/1.gif" width="100"> -->
 
-## Lesenelir <img src="https://raw.githubusercontent.com/lesenelir/lesenelir/master/giphy2.gif" width="70"> 
+<!-- ## Lesenelir  <img src="https://raw.githubusercontent.com/lesenelir/lesenelir/master/giphy2.gif" width="70"> -->
+
+## Lesenelir <img src="https://raw.githubusercontent.com/lesenelir/lesenelir/master/giphy2.gif" width="60" style="display: inline-block;" />
 
 <!--**Thanks for visiting my Github profile 👯**-->
 
