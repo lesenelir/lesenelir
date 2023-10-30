@@ -33,7 +33,7 @@
 
 📷 Aspiring to be an artist, photographer, and film director
 
-<br/>
+<!-- <br/> -->
 
 
 <!-- We will ultimately embrace a more open, free, and inclusive internet. Don't be disheartened, dare to dream, and dare to build. -->
