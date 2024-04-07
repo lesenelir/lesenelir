@@ -8,7 +8,7 @@
 
 <!-- ## Lesenelir  <img src="https://raw.githubusercontent.com/lesenelir/lesenelir/master/giphy2.gif" width="70"> -->
 
-## Lesenelir <img src="https://raw.githubusercontent.com/lesenelir/lesenelir/master/giphy2.gif" width="60" style="display: inline-block;" />
+<!-- ## Lesenelir <img src="https://raw.githubusercontent.com/lesenelir/lesenelir/master/giphy2.gif" width="60" style="display: inline-block;" /> -->
 
 [![wakatime](https://wakatime.com/badge/user/98c6a54e-6684-4d11-a897-c5c1787bef61.svg)](https://wakatime.com/@98c6a54e-6684-4d11-a897-c5c1787bef61) 
 
