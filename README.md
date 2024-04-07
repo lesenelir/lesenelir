@@ -12,6 +12,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/98c6a54e-6684-4d11-a897-c5c1787bef61.svg)](https://wakatime.com/@98c6a54e-6684-4d11-a897-c5c1787bef61) 
 
+web developer, aspiring to be a film director
 
 <!--
 🌐 Web Developer, specializing in React development
